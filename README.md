@@ -1,0 +1,2 @@
+# UIClippableParticle
+ugui框架下particle system的mask实现
